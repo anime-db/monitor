@@ -5,7 +5,7 @@ tags: [memory/repo, anime-db/monitor, docs/index]
 
 # .claude-docs/ — таблица маршрутизации
 
-Толстый слой знаний для агентов (L1b по протоколу claude-memory-3layer). Тонкая точка входа — [`../CLAUDE.md`](../CLAUDE.md). Пользовательский аудит и описание — в [`../docs/`](../docs/index.md).
+Толстый слой знаний для агентов (L1b по протоколу claude-memory-3layer). Тонкая точка входа — [`../AGENTS.md`](../AGENTS.md). Пользовательский аудит и описание — в [`../docs/`](../docs/index.md).
 
 ## Что читать для какой задачи
 
